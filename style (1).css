@@ -1,0 +1,40 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    color: #003300;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #006600;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+nav a {
+    margin: 10px;
+    color: white;
+    text-decoration: none;
+}
+main {
+    padding: 20px;
+}
+footer {
+    background-color: #003300;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.whatsapp-button {
+    display: inline-block;
+    background-color: #25d366;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.eslogan {
+    font-style: italic;
+    margin-top: 5px;
+}
